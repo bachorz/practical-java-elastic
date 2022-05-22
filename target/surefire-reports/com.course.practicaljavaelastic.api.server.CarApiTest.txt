@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.course.practicaljavaelastic.api.server.CarApiTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.391 s - in com.course.practicaljavaelastic.api.server.CarApiTest
